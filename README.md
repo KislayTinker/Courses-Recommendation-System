@@ -206,7 +206,13 @@ streamlit run app/app.py
 
 # 📸 Screenshots
 
+## Home Page
 
+![Home Page](https://github.com/KislayTinker/Courses-Recommendation-System/blob/main/screenshots/home%20page.png)
+
+## Recommendations Output
+
+![Recommendations](https://github.com/KislayTinker/Courses-Recommendation-System/blob/main/screenshots/recommended%20courses.png)
 
 ---
 
@@ -218,5 +224,5 @@ streamlit run app/app.py
 
 # 👨‍💻 Author
 
-Kinshu  
+Kislay
 Data Science Enthusiast
