@@ -11,6 +11,14 @@ The project also includes an interactive **Streamlit Web Application** for real-
 
 ---
 
+# 🌐 Live Demo
+
+🚀 Try the live application here:
+
+[Hybrid Learning Recommendation System](https://your-app-url.streamlit.app)
+
+---
+
 # 🚀 Features
 
 ✅ Personalized course recommendations  
